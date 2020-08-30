@@ -6,7 +6,7 @@
   
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
   
-⚡ Fun fact: I have contributed to games released on PS3 and PC. Want to hear more? Contact me.  
+⚡ Fun fact: I have contributed to games released on PS3 and PC.   Want to hear more? Contact me.  
 <!--
 **indiehjaerta/indiehjaerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
