@@ -6,7 +6,8 @@
   
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
 
-💪 Languages I know: C++, Python, Javascript, HTML, (S)CSS, PHP, SQL  
+💪 Languages I know: C++, Javascript, HTML, (S)CSS, PHP, SQL  
+🤔 Learning Python
 🧠 Frameworks I work with: React, NextJS, Apollo Client/Server, Emotion, GraphQL, MongoDB
 
   
