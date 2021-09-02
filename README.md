@@ -11,7 +11,8 @@
 🧠 Frameworks I work with: React, NextJS, Apollo Client/Server, Emotion, GraphQL, MongoDB
 
   
-⚡ Fun fact: I have contributed to games released on PS3 and PC.   Want to hear more? Contact me.  
+⚡ Fun fact: I have contributed to games released on PS3 and PC and software used and approved by the Swedish Government.  
+    Want to hear more? Contact me.  
 <!--
 **indiehjaerta/indiehjaerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
