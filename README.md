@@ -6,9 +6,9 @@
   
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
 
-💪 Languages I know: C++, Javascript, HTML, (S)CSS, PHP, SQL  
-🤔 Learning Python, UWP  
-🧠 Frameworks I work with: React, NextJS, Apollo Client/Server, Emotion, GraphQL, MongoDB
+💪 Languages I know: C++, Javascript, HTML, CSS, SQL  
+🤔 Learning Python, UWP, C# (Unity)  
+🧠 Frameworks I work with: React, NextJS, Gatsby, Apollo Client/Server, Emotion, Tailwind, GraphQL, MongoDB
 
   
 ⚡ Fun fact: I have contributed to games released on PS3 and PC and software used and approved by the Swedish Government.  
