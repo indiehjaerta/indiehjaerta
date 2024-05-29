@@ -2,11 +2,11 @@
 
 🔭 At Work I’m currently working on a C++/Qt crypto application for sharing files safely using symmetrical or asymmetrical keys used by the swedish government and many more.  
 🌱 On my spare time I’m currently learning more about React, NextJs, MongoDB and GraphQL among other techniques to evolve my frontend skillset.  
-🐱‍🏍 I will hopefully focus more on games in the upcoming year  
+🐱‍🏍 Currently extending my knowledge in TypeScript
   
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
 
-💪 Languages I know: C++, Javascript, HTML, CSS, SQL  
+💪 Languages I know: C++, Javascript/Typescript, HTML, CSS, SQL  
 🤔 Learning Python, UWP, C# (Unity)  
 🧠 Frameworks I work with: React, NextJS, Gatsby, Apollo Client/Server, Emotion, Tailwind, GraphQL, MongoDB
 
