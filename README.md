@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-🔭 At Work I’m currently working on a C++/Qt crypto application for sharing files safely using symmetrical or asymmetrical keys used by the swedish government and many more.  
-🌱 On my spare time I’m currently learning more about React, NextJs, MongoDB and GraphQL among other techniques to evolve my frontend skillset.  
+🔭 I'm currently working on getting better at backend.  
+🌱 On my spare time I’m always learning, get in touch with me to see what I'm currently exploring.
 🐱‍🏍 Currently extending my knowledge in TypeScript
   
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
-
-💪 Languages I know: C++, Javascript/Typescript, HTML, CSS, SQL  
-🤔 Learning Python, UWP, C# (Unity)  
+💪 Languages I know: C++, Python, Javascript/Typescript, HTML, CSS
+🤔 Looking for help with: Finalizing automation of docker and CI/CD pipelines for a project.
 🧠 Frameworks I work with: React, NextJS, Gatsby, Apollo Client/Server, Emotion, Tailwind, GraphQL, MongoDB
 
   
 ⚡ Fun fact: I have contributed to games released on PS3 and PC and software used and approved by the Swedish Government.  
     Want to hear more? Contact me.  
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikaelmlarsson/)   
 <!--
 **indiehjaerta/indiehjaerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
